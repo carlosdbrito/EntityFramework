@@ -11,6 +11,7 @@ namespace CRUD_EF
 {
     public partial class Form1 : Form
     {
+        //CRUD Entity Framework
         int codProduto;
         public Form1()
         {
